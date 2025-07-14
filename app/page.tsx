@@ -32,7 +32,7 @@ export default function Home() {
         <p className="mt-2 text-md text-green-600 font-semibold">
           Launching Soon in 2025
         </p>
-        <Button className="mt-6 px-6 py-3 text-lg rounded-xl">Stay Updated</Button>
+        <Button className="mt-6 px-6 py-3 text-lg rounded-xl">Join Waitlist</Button>
       </div>
 
       <section className="mt-14 max-w-5xl mx-auto">
